@@ -15,3 +15,8 @@ usage : source ./2-bring_me_home
 # List with long format
 
 This script display current directory contents in a long format.
+
+# List long format with hidden files
+
+This script display current directory contents, including hidden files (starting with .)
+
