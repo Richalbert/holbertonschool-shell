@@ -22,9 +22,13 @@ This script display current directory contents, including hidden files (starting
 
 # List long format, hidden file, user and group
 
-Display current directory contents.
+This script display current directory contents.
 
    - Long format
-   -  with user and group IDs displayed numerically
-   -  And hidden files (starting with .)
+   - with user and group IDs displayed numerically
+   - And hidden files (starting with .)
+
+# Create a directrory in /tmp
+
+This script creates a directory named my_first_directory in the /tmp/ directory.
 
