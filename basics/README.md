@@ -20,3 +20,11 @@ This script display current directory contents in a long format.
 
 This script display current directory contents, including hidden files (starting with .)
 
+# List long format, hidden file, user and group
+
+Display current directory contents.
+
+   - Long format
+   -  with user and group IDs displayed numerically
+   -  And hidden files (starting with .)
+
