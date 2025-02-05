@@ -40,3 +40,6 @@ This script move file betty from /tmp to /tmp/my_first_directory
 
 This script delete the directory my_first_directory that is in the /tmp directory.
 
+# Go to the previous directory
+
+This script changes the working directory to the previous one.
