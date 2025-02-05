@@ -32,3 +32,8 @@ This script display current directory contents.
 
 This script creates a directory named my_first_directory in the /tmp/ directory.
 
+# Move file betty 
+
+This script move file betty from /tmp to /tmp/my_first_directory
+
+
