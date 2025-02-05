@@ -12,3 +12,6 @@ This script changes the working directory to the user’s home directory.
 
 usage : source ./2-bring_me_home
 
+# List with long format
+
+This script display current directory contents in a long format.
