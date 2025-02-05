@@ -43,3 +43,7 @@ This script delete the directory my_first_directory that is in the /tmp director
 # Go to the previous directory
 
 This script changes the working directory to the previous one.
+
+# Lists all file in many directories
+
+This script lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
