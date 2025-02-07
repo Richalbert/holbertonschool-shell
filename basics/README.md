@@ -69,3 +69,6 @@ This script copies all the HTML files from the current working directory to the 
 This script moves all files beginning with an uppercase letter to the directory /tmp/u.
 (the directory /tmp/u will exist)
 
+# 16 - Clean Emacs file
+
+This script deletes all files in the current working directory that end with the character ~
