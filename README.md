@@ -1,6 +1,6 @@
 # holbertonschool-shell
 
-## liste des scripts sous ce repertoire
+## liste des scripts sous le repertoire basics
 
 0. Where am I? 
 1. What’s in there? 
@@ -19,3 +19,9 @@
 14. Copy HTML files 
 15. Let’s move 
 16. Clean Emacs
+17. Tree 
+
+## Liste des scripts sous le repertoire permissions
+
+0. My name is Betty 
+
