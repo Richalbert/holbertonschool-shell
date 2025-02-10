@@ -53,3 +53,7 @@ This script create a directory called my_dir with permissions 751
 13. Change group 
 
 This script changes the group owner to school for the file hello
+
+14. Owner and group 
+
+This script changes the owner to vincent and the group owner to staff for all the files and directories 
