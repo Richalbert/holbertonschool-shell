@@ -33,3 +33,7 @@ This script that adds execution permission to the owner, the group owner and the
 8. James Bond 
 
 This script sets all permissions only to other
+
+9. John Doe 
+
+This script sets the mode rwxr-x-wx to hello
