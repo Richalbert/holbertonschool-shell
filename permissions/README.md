@@ -57,3 +57,7 @@ This script changes the group owner to school for the file hello
 14. Owner and group 
 
 This script changes the owner to vincent and the group owner to staff for all the files and directories 
+
+15. Symbolic links 
+
+This script changes the owner and the group owner of a link file
