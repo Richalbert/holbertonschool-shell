@@ -49,3 +49,7 @@ This script adds execute permission to all subdirectories of the current directo
 12. More directories 
 
 This script create a directory called my_dir with permissions 751 
+
+13. Change group 
+
+This script changes the group owner to school for the file hello
