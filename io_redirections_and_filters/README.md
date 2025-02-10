@@ -3,3 +3,6 @@ This script prints “Hello, World”, followed by a new line to the standard ou
 
 1. Confused smiley 
 This script displays a confused smiley "(Ôo)'.
+
+2. Let's display a file 
+This script display the content of /etc/passwd
