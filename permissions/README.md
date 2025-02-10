@@ -61,3 +61,7 @@ This script changes the owner to vincent and the group owner to staff for all th
 15. Symbolic links 
 
 This script changes the owner and the group owner of a link file
+
+16. If only 
+
+This script changes the owner of the file hello to vincent only if it is owned by the user guillaume
