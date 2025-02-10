@@ -34,4 +34,5 @@
 8. James Bond 
 9. John Doe 
 10. Look in the mirror 
-11. Directories 
+11. Directories (X Majuscule)
+12. More directories
