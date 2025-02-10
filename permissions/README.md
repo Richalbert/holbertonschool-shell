@@ -37,3 +37,7 @@ This script sets all permissions only to other
 9. John Doe 
 
 This script sets the mode rwxr-x-wx to hello
+
+10. Look in the mirror 
+
+This script sets the mode of the file hello the same as olleh’s mode.
