@@ -27,3 +27,5 @@ This script  lists all local variables and environment variables, and functions.
 6. Local variable 
 This script creates a new local variable
 
+7. Global variable 
+This script creates a new global variable.
