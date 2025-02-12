@@ -17,3 +17,6 @@ This script Add /action to the PATH. /action should be the last directory the sh
 
 3. 3-paths
 This script counts the number of directories in the PATH 
+
+4. Global variables 
+This script  lists environment variables.
