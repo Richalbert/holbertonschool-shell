@@ -29,3 +29,10 @@ This script creates a new local variable
 
 7. Global variable 
 This script creates a new global variable.
+
+8. Every addition to true knowledge is an addition to human power 
+Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+9. Divide and rule
+script that prints the result of POWER divided by DIVIDE
+
