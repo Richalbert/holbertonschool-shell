@@ -1,5 +1,2 @@
 #!/bin/bash
-# echo {a..z}{a..z}  cree une liste de 2 lettre separee par un espace
-# tr " " "\n"        remplace l'espace par un retour chariot
-# grep -v "oo"       affiche toute les lignes sauf celles correspondant a "oo"
 echo {a..z}{a..z} | tr " " "\n" | grep -v "oo"
