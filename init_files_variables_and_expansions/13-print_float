@@ -1,2 +1,2 @@
 #!/bin/bash
-print $NUM.00
+printf $NUM.00
